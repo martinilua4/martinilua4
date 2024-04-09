@@ -1,16 +1,21 @@
-### Hi there 👋
+### 🙋🏼‍♀️ Sobre Mim
+Olá, meu nome é Luana Aparecida Martini e sou estudante de T.I, estou sempre querendo aprender mais para ajudar múltiplas pessoas🤝.
 
-<!--
-**martinilua4/martinilua4** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 👩‍💻 Especialidades: 
+-📁 Front-End.
+-📚 Documentação.
 
-Here are some ideas to get you started:
+### 🎫 Contato:
+-📧 E-mail: luanaapmartini@gmail.com 
+-📱 Telefone: (15) 99772-0093
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### ✔ Certificação: 
+-💻 Cursando: Ensino médio de Informática para Internet.
+-🛒 Marketing e Vendas. 
+
+### 🏆 Habilidades:
+<div style="display: inline_block"><br>
+  <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+</div>
